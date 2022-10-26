@@ -20,7 +20,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.tyrauber.ExpoFirebaseExample",
-      "googleServicesFile": "./assets/json/google-services.plist"
+      "googleServicesFile": "./google-services.plist"
     },
     "android": {
       "adaptiveIcon": {
@@ -28,7 +28,7 @@
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.tyrauber.ExpoFirebaseExample",
-      "googleServicesFile": "./assets/json/google-services.json"
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "favicon": "./assets/favicon.png"
